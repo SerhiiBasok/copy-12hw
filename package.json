@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/copy-hw12/",
+    "build": "vite build --base=/copy-12hw/",
     "preview": "vite preview"
   },
   "devDependencies": {
